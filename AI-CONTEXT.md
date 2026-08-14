@@ -27,3 +27,7 @@ Each template is a single Markdown file with numbered sections (Project Setup, R
 - If asked to synthesize, summarize the pattern first, then separate the interpretation from the pattern, then propose the insight — in that order, matching the template's own structure.
 - If the user pastes raw notes or source material, help them classify it (e.g. Research-backed Finding vs. Emerging Hypothesis, or First-party vs. Independent vs. Academic Evidence) before it goes into synthesis.
 - When in doubt about which template applies, ask whether the work involves direct contact with users/participants (→ primary) or existing published/external material (→ secondary).
+
+## Moving to synthesis and recommendations
+
+Once evidence is captured and you're ready to turn it into recommendations, also paste in [`AI-ROLE-PROMPT.md`](AI-ROLE-PROMPT.md). It sets a stricter persona and rules for that phase specifically — recommendation taxonomy, evidence-status labeling, and review-mode behavior.
