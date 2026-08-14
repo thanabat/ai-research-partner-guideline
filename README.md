@@ -8,16 +8,16 @@ No setup, no cloning, no code. Copy some text, paste it into your favorite AI ch
 
 1. Pick the template that fits your research (see below), then copy its contents or download the `.md` file — whatever your AI tool likes.
 2. Open a chat with your AI assistant of choice (ChatGPT, Gemini, Claude, take your pick).
-3. Share `AI-CONTEXT.md` first, then the template, then tell it what you're researching.
+3. Share [`AI-CONTEXT.md`](AI-CONTEXT.md) first, then the template, then tell it what you're researching.
 4. Work through the template section by section, filling in real notes, sources, and evidence — no filling in the blanks with vibes.
-5. Ready to turn evidence into recommendations? Bring in `AI-ROLE-PROMPT.md` — it's where the AI stops taking notes and starts thinking like a research lead.
+5. Ready to turn evidence into recommendations? Bring in [`AI-ROLE-PROMPT.md`](AI-ROLE-PROMPT.md) — it's where the AI stops taking notes and starts thinking like a research lead.
 
 ## Choosing a template
 
 | Situation | Template |
 |---|---|
-| Talking to real users (interviews, usability tests, diary studies) | `primary-research-template.md` |
-| Reviewing existing sources (reports, articles, competitor research) | `secondary-research-template.md` |
+| Talking to real users (interviews, usability tests, diary studies) | [`primary-research-template.md`](templates/primary-research-template.md) |
+| Reviewing existing sources (reports, articles, competitor research) | [`secondary-research-template.md`](templates/secondary-research-template.md) |
 | Both | Run each phase with its own template; feed secondary research findings into your primary research plan |
 
 ## What's in here
