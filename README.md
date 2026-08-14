@@ -12,6 +12,12 @@ No setup, no cloning, no code. Copy some text, paste it into your favorite AI ch
 4. Work through the template section by section, filling in real notes, sources, and evidence — no filling in the blanks with vibes.
 5. Ready to turn evidence into recommendations? Bring in [`AI-ROLE-PROMPT.md`](AI-ROLE-PROMPT.md) — it's where the AI stops taking notes and starts thinking like a research lead.
 
+## Example prompt
+
+Not sure what to type after sharing the files? Try this:
+
+> I'm starting a [primary/secondary] research project about [topic/product]. Please read `AI-CONTEXT.md` and follow its ground rules, then help me fill out `primary-research-template.md` (or `secondary-research-template.md`) section by section — starting with 00/01 Project Setup.
+
 ## Choosing a template
 
 | Situation | Template |
