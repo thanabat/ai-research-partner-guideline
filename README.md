@@ -4,6 +4,8 @@ Your blank-page problem, solved. This is a set of battle-tested templates and pr
 
 No setup, no cloning, no code. Copy some text, paste it into your favorite AI chat, and go.
 
+> **New here?** This repo has a few files, but you only need two at a time to get going: **one template** (what you're filling in) + [`AI-CONTEXT.md`](AI-CONTEXT.md) (how the AI should help). Everything else — the examples, [`AI-ROLE-PROMPT.md`](AI-ROLE-PROMPT.md) — is there for when you need it, not before. Start with the steps below.
+
 ## How to start a new project
 
 1. Pick the template that fits your research (see below), then copy its contents or download the `.md` file — whatever your AI tool likes.
