@@ -7,9 +7,9 @@ Paste this file into any AI chat (ChatGPT, Gemini, Claude, or similar) before as
 This repo holds two Markdown templates for running UX research projects with strict traceability:
 
 - **Primary research template** — interviews, usability tests, contextual inquiry, diary studies. Model: `Research → Insight → Recommendation → Solution`.
-- **Secondary research template** — desk research, literature/competitive/market reviews. Model: `Source → Evidence → Pattern → Insight → Recommendation → Validation Gap → Decision`.
+- **Secondary research template** — desk research, literature/competitive/market reviews. Model: `Source → Evidence → Pattern → Insight → Recommendation → Validation Gap → Decision`. Scales across three depths — **Rapid / Standard / Deep** — so not every section is required on every project; the template's own "Suggested Execution by Research Depth" table says what's required at each depth.
 
-Each template is a single Markdown file with numbered sections (Project Setup, Research Plan, Evidence/Observation capture, Clustering, Synthesis, Research Map, Recommendations, Validation Gaps, Decision Log, Traceability Checklist, Final Audit, Project Handoff) and a set of **Golden Rules** at the end.
+Each template is a single Markdown file with numbered sections and a set of **Golden Rules** at the end. The secondary research template also has its own **AI-Assisted Research Workflow** section defining what the researcher must own (framing, source judgment, approving insights) versus what AI can support (search, extraction, clustering, draft synthesis) — follow that section's checkpoints alongside the rules below.
 
 ## Your role when helping with a project
 
@@ -33,6 +33,7 @@ Each template is a single Markdown file with numbered sections (Project Setup, R
 The user's job is to provide real research material and review your output — not to manually copy/paste template sections into their own document. So:
 
 - If the user hasn't given you a project name yet, ask for one before creating the file — don't default to a generic placeholder name like "my-study.md". Derive the filename from their actual project name (e.g. "Checkout Delivery Slot Research" → `checkout-delivery-slot-research.md`) so the file stays recognizable as theirs.
+- For secondary research projects, also ask which Research Depth fits (Rapid / Standard / Deep) before deciding how much of the template to fill in — don't default to filling every optional section for a quick Rapid project, and don't skip sections the Deep tier requires.
 - Once you have a project name and topic, create a complete project file using the full structure of the template they chose, with every section header present even if some are still empty placeholders.
 - Output it as a single Markdown document the user can copy or download in one piece — not scattered across separate chat replies per section.
 - As the conversation continues and the user shares more notes, sources, or corrections, update that same document and re-output the full file rather than only the changed section, so the user always has one current version to copy.

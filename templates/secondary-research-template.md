@@ -1,7 +1,53 @@
 # SECONDARY RESEARCH PROJECT TEMPLATE
 
-> Reusable master template for Secondary / Desk Research projects.  
-> Core traceability: **Source → Evidence → Pattern → Insight → Recommendation → Validation Gap → Decision**
+> Reusable master template for Secondary / Desk Research projects.
+> Designed to scale from **Rapid → Standard → Deep Research** without requiring every section for every project.
+>
+> Core traceability: **Source → Evidence → Pattern → Insight → Recommendation / Opportunity → Validation Gap → Decision**
+
+---
+
+# How to Use This Template
+
+This template is a **research framework, not a mandatory checklist**.
+
+Select the level of rigor based on the decision, risk, available time, and evidence required.
+
+## Research Depth
+
+### Rapid
+
+Use when the goal is fast orientation, early exploration, or answering a focused question.
+
+Typical approach:
+- Focused Research Questions
+- Small set of high-value sources
+- Lightweight evidence capture
+- Direct synthesis of key patterns and gaps
+
+### Standard — Default
+
+Use for most product, service, strategy, and design research projects.
+
+Typical approach:
+- Clear Research Questions
+- Multiple credible source types
+- Lean Source + Evidence Repository
+- Cross-source clustering and synthesis
+- Explicit implications, opportunities, and validation gaps
+
+### Deep
+
+Use when the decision is high-risk, the topic is complex or contested, or strong auditability is required.
+
+Typical approach:
+- Broader / systematic source coverage
+- Separate Source and Evidence repositories
+- Explicit contradiction and contextual analysis
+- Evidence strength assessment
+- Detailed traceability and audit
+
+> **Principle:** Use enough rigor to make a defensible decision — not maximum rigor by default.
 
 ---
 
@@ -11,11 +57,12 @@
 **Research Topic:**  
 **Research Owner:**  
 **Stakeholders:**  
+**Research Depth:** Rapid / Standard / Deep  
 **Status:** Planning / Source Collection / Analysis / Synthesis / Recommendation / Complete  
 **Last Updated:**
 
 ## Background
-[What triggered this research? What is the context behind the project?]
+[Why is this research needed? What business, product, service, social, market, or stakeholder context triggered it?]
 
 ## Research Goal
 [What should this research help the team understand or decide?]
@@ -47,265 +94,262 @@ Record important assumptions or beliefs that exist before research begins.
 
 ## 2.2 Research Questions
 
-### RQ1 — [Question]
+| RQ | Research Question | Evidence to Look For |
+|---|---|---|
+| RQ1 | [Question] | [What evidence would help answer it?] |
+| RQ2 | [Question] | [What evidence would help answer it?] |
+| RQ3 | [Question] | [What evidence would help answer it?] |
 
-**Why it matters:**  
-[Reason]
-
-**Evidence Needed:**  
-[What evidence would help answer this question?]
-
----
-
-### RQ2 — [Question]
-
-**Why it matters:**  
-[Reason]
-
-**Evidence Needed:**  
-[What evidence would help answer this question?]
+> Add **Why it matters** only when the rationale is not already clear from the Research Goal.
 
 ---
 
-## 2.3 Research Approach
+# 03 — Research Approach
 
 **Primary Method:**  
 Secondary Research / Desk Research
 
-**Research Type:**  
-Landscape Review / Competitive Research / Literature Review / Market Research / Trend Research / Case Study Analysis / Benchmarking / Other
+Describe the minimum set of approaches needed to answer the Research Questions.
 
-**Time Range:**  
-[e.g. 2022–2026]
+Possible approaches:
+- Literature Review
+- Landscape Review
+- Market / Trend Research
+- Case Study Analysis
+- Competitive / Comparative Research
+- Benchmarking
+- Other
 
-**Geographic Scope:**  
+## Approach
+1. **[Approach]** — [What will be studied and why]
+2. **[Approach]** — [What will be studied and why]
+3. **[Approach]** — [What will be studied and why]
+
+## Time Range
+Use a range appropriate to the type of evidence.
+
+- **Foundational / Theory:** [Range or no restriction]
+- **Current Research / Domain Evidence:** [Range]
+- **Platform / Market / Current Cases:** [Range]
+
+## Geographic Scope
 [Global / Thailand / SEA / Other]
 
-**Industry / Domain Scope:**  
-[Scope]
+**Context Notes:**  
+[Important cultural, geographic, market, or transferability considerations]
 
 ---
 
-# 03 — Research Scope & Source Strategy
+# 04 — Source Strategy
 
-## 3.1 Inclusion Criteria
-Include sources that:
+Source Strategy defines **what kinds of sources will be trusted, included, or excluded before searching**.
 
-- [Criterion]
-- [Criterion]
-- [Criterion]
+## 4.1 Source Types
 
-## 3.2 Exclusion Criteria
-Exclude sources that:
-
-- [Criterion]
-- [Criterion]
-
-## 3.3 Source Types
-
-Potential evidence sources may include:
+Potential sources may include:
 
 - Academic research
+- Independent / institutional research
 - Government / public data
-- Industry reports
+- Industry / market reports
 - Company / platform documentation
-- Product documentation
-- Help Centers
-- Annual reports
+- Product documentation / Help Centers
 - Independent journalism
 - Expert analysis
-- Market / consumer reports
 - Existing internal research
 - Other credible secondary sources
 
-## 3.4 Source Selection Principles
+## 4.2 Inclusion Criteria
 
-Prefer sources that are:
+Include sources that:
 
-- Relevant to the Research Questions
-- Credible and traceable
-- Recent enough for the topic
-- Clear about methodology or origin of data
-- Independent where independent validation matters
-- Based on original evidence where possible
+- Help answer at least one Research Question
+- Have a traceable author, organization, or original source
+- Provide enough context to interpret the evidence
+- Explain methodology or data origin when empirical claims are made
+- Are current enough for the question being answered
+- Use original evidence where reasonably accessible
+
+## 4.3 Exclusion Criteria
+
+Exclude or do not use as primary evidence when sources:
+
+- Are opinion or marketing content without supporting evidence
+- Present recommendations or "best practices" without explaining their evidence base
+- Cannot be traced to a credible origin
+- Repeat another source without adding independent evidence
+- Are outdated for claims that depend on current product, policy, market, or platform conditions
+
+## 4.4 Source Selection Principles
+
+- **Relevance over Volume**
+- **Original Evidence over Repetition**
+- **Independent Validation where Needed**
+- **Context Matters**
+- **Recency Depends on the Question**
+- **Preserve Contradicting Evidence**
 
 > Multiple articles repeating the same original source should not be treated as multiple independent pieces of evidence.
 
 ---
 
-# 04 — Source Repository
+# 05 — Search Strategy & Evidence Collection
 
-Create a Source ID so every evidence item can trace back to its origin.
+Use this section as the practical execution guide.
+
+## 5.1 Search by Research Question
+
+### RQ1 — [Question]
+
+**Focus:**  
+[What to look for]
+
+**Example Search Terms:**
+- [Keyword / query]
+- [Keyword / query]
+
+### RQ2 — [Question]
+
+**Focus:**  
+[What to look for]
+
+**Example Search Terms:**
+- [Keyword / query]
+- [Keyword / query]
+
+> Search terms are starting points, not a checklist. Expand them as new theories, authors, terminology, cases, or citations emerge.
+
+## 5.2 Search Process
+
+1. Start from the highest-priority Research Question.
+2. Search using multiple terms and source types.
+3. Screen sources using the Source Strategy.
+4. Capture useful evidence and its context.
+5. Follow relevant authors, theories, citations, and original sources.
+6. Search for additional or contradicting evidence when needed.
+7. Stop or move on when additional sources no longer add meaningful patterns, conditions, or perspectives.
+
+## 5.3 Evidence Handling Principles
+
+Keep these distinct:
+
+- **Evidence** — what the source reports or finds
+- **Author Interpretation** — what the source author concludes
+- **Platform / Organization Claim** — what an organization reports about itself
+- **Researcher Interpretation** — what we infer by connecting evidence
+
+> Do not convert a single evidence point directly into a Pattern, Insight, or Recommendation.
+
+---
+
+# 06 — Evidence Repository & Analysis
+
+## Default: Lean Repository
+
+For **Rapid and Standard Research**, use one working table by default.
+
+| ID | RQ | Source / Reference | Source Type | Context | Key Evidence | Researcher Note / Emerging Cluster |
+|---|---|---|---|---|---|---|
+| E01 | | | | | | |
+| E02 | | | | | | |
+
+This table is intended to support research execution without creating unnecessary documentation overhead.
+
+### Minimum Rules
+
+- Every important evidence item must remain traceable to its source.
+- Preserve relevant context and limitations.
+- Separate evidence from researcher interpretation.
+- One source may contribute multiple evidence items.
+- Start clustering during research when repeated themes begin to appear.
+
+## Optional: Deep Research Repository
+
+For **Deep Research** or work requiring stronger auditability, separate Source and Evidence records.
+
+### Source Repository
 
 | Source ID | Source | Source Type | Date | Relevant RQ | Reliability / Limitation Notes |
 |---|---|---|---|---|---|
 | S01 | | | | | |
-| S02 | | | | | |
-| S03 | | | | | |
 
-## Source Record — S01
+### Evidence Repository
 
-**Title:**  
-**Author / Organization:**  
-**Published:**  
-**Source Type:**  
-**URL / Reference:**  
-**Accessed:**  
+| Evidence ID | Source ID | Research Question | Evidence | Evidence Type | Context / Limitation | Researcher Note |
+|---|---|---|---|---|---|---|
+| E01 | S01 | | | | | |
 
-**Relevant Research Question(s):**  
-[RQ1 / RQ2]
+### Evidence Classification
 
-**Why This Source Matters:**  
-[Reason]
-
-**Important Limitations:**  
-[Limitation]
+- **Academic Evidence**
+- **Independent Evidence**
+- **Official / Platform Evidence**
+- **Internal Evidence**
+- **Researcher Interpretation** — not external evidence
 
 ---
 
-# 05 — Evidence Capture & Classification
+## 6.1 Evidence Clustering
 
-Capture evidence before interpretation.
+Cluster evidence as patterns emerge rather than waiting until all searching is complete.
 
-## 5.1 Evidence Classification
+### Cluster — [Name]
 
-### First-party / Official Evidence
-Information published by the organization, company, platform, or institution that owns or operates the subject being studied.
+**What appears to be happening:**  
+[Emerging pattern]
 
-Examples:
-- Official website
-- Annual report
-- Help Center
-- Product documentation
-- Government statistics
+**Supporting Evidence:**  
+[E01, E04, E08]
 
-Useful for understanding:
+**Contradicting / Different Evidence:**  
+[Evidence]
 
-> What exists / What the organization reports
+**Contextual Variation:**  
+[Where / when / for whom it differs]
 
-Do not automatically treat first-party claims as independent validation.
-
----
-
-### Independent Evidence
-Information from external sources that do not own the subject being studied.
-
-Examples:
-- Independent journalism
-- Industry analysis
-- NGO reports
-- Third-party research organizations
-
-Useful for:
-
-> External observation / Independent assessment
-
----
-
-### Academic Evidence
-Research or empirical studies from academic sources.
-
-Examples:
-- Peer-reviewed papers
-- Conference papers
-- University research
-- Empirical studies
-
-Useful for:
-
-> Established findings / Empirical evidence / Theory
-
----
-
-### Internal Evidence
-Existing evidence from within the organization.
-
-Examples:
-- Previous UX Research
-- Analytics
-- Customer feedback
-- Internal reports
-- Business data
-
-Always retain the original context and limitations.
-
----
-
-### Researcher Interpretation
-Interpretation created by connecting, comparing, or synthesizing evidence.
-
-Examples:
-- Pattern
-- Implication
-- Design implication
-- Strategic interpretation
-- Opportunity
-
-> Researcher Interpretation is not external evidence.
-
----
-
-## 5.2 Evidence Repository
-
-| Evidence ID | Source ID | Research Question | Evidence | Evidence Type | Initial Note |
-|---|---|---|---|---|---|
-| E01 | S01 | RQ1 | | | |
-| E02 | S03 | RQ2 | | | |
-
-## Evidence Record — E01
-
-**Source:** [S01]
-
-**Evidence:**  
-[Fact / finding / data]
-
-**Context:**  
-[Context required to interpret it correctly]
-
-**Evidence Classification:**  
-[Official / Independent / Academic / Internal]
-
-**Supports:**  
-[Research question or topic this evidence informs]
-
-**Limitations / Caveats:**  
-[Boundary]
-
-**Researcher Note:**  
-[Initial interpretation — clearly separated from evidence]
-
----
-
-# 06 — Analysis / Evidence Clustering
-
-Group related evidence before writing insights.
-
-## Cluster — [Name]
-
-**Scope:**  
-[What this cluster represents]
-
-### Supporting Evidence
-- E01 — [Summary]
-- E05 — [Summary]
-- E12 — [Summary]
-
-### Supporting Sources
-[S01, S04, S07]
-
-### Contradicting / Different Evidence
-- [Evidence]
-
-### Contextual Variation
-[Where / when / for whom the pattern differs]
-
-### Evidence Coverage
-[How broad or narrow the supporting evidence is]
-
-## Emerging Pattern
-[What appears repeatedly across the evidence?]
+**Evidence Gap:**  
+[What is still unclear]
 
 > Preserve contradictory evidence and contextual differences. Do not force all evidence into one pattern.
+
+---
+
+# AI-Assisted Research Workflow
+
+Use when AI is involved in research execution.
+
+## Researcher / Research Lead
+
+Responsible for:
+- Framing the problem and Research Questions
+- Defining scope and evidence standards
+- Challenging source quality and interpretation
+- Reviewing important / foundational sources when needed
+- Deciding when evidence is sufficient
+- Assessing business, product, service, and contextual relevance
+- Approving Insights, Opportunities, and Decisions
+
+## AI Research Support
+
+May support:
+- Search query expansion
+- Source discovery and screening
+- Original-source tracing
+- Evidence extraction
+- Evidence organization
+- Contradiction discovery
+- Clustering support
+- Draft synthesis
+
+## Shared Review Points
+
+Do not run the full chain from Search → Recommendation without review when the decision matters.
+
+Recommended checkpoints:
+
+**RQ / Scope → Search & Evidence → Pattern Review → Insight Review → Opportunity / Recommendation**
+
+> AI can reduce evidence-heavy work, but Research Judgment remains a human responsibility.
 
 ---
 
@@ -350,7 +394,7 @@ Consider:
 
 ---
 
-# 08 — Research Map
+# 08 — Research Map (Optional)
 
 ## [Research Theme]
 
@@ -464,7 +508,7 @@ Primary Research / Expert Interview / Survey / Usability Test / Analytics / Pilo
 
 ---
 
-# 11 — Decision Log
+# 11 — Decision Log (Optional)
 
 ## Decision — [Title]
 
@@ -488,7 +532,7 @@ Proposed / Accepted / Rejected / Superseded
 
 ---
 
-# 12 — Traceability & Final Audit
+# 12 — Traceability & Final Audit (Recommended for Deep / High-risk Research)
 
 ## 12.1 Traceability Checklist
 
@@ -558,7 +602,7 @@ Use when selected cases need deeper analysis.
 ### Case — [Name]
 
 **Category:**  
-**Why Selected:**  
+**Why Selected:**
 
 **Background:**  
 [Context]
@@ -689,6 +733,30 @@ Secondary Research → Insight → Recommendation → Solution Hypothesis → Va
 
 ### Important Research Limitations
 - [Limitation]
+
+---
+
+# Suggested Execution by Research Depth
+
+| Component | Rapid | Standard | Deep |
+|---|---|---|---|
+| Project Setup | Required | Required | Required |
+| Research Questions | Required | Required | Required |
+| Research Approach | Lightweight | Required | Detailed |
+| Source Strategy | Lightweight | Required | Detailed |
+| Search Strategy | Lightweight | Required | Detailed |
+| Lean Evidence Repository | Required | Required | Optional |
+| Separate Source + Evidence Repository | No | Optional | Required |
+| Evidence Clustering | Lightweight | Required | Required |
+| Evidence Strength Assessment | Optional | Recommended for key findings | Required |
+| Research Map | Optional | Optional | Recommended |
+| Recommendations / Opportunities | If needed | If needed | If needed |
+| Validation Gaps | Recommended | Required | Required |
+| Decision Log | Optional | Optional | Recommended |
+| Final Audit | Lightweight | Recommended | Required |
+
+> The project does not become "better research" simply by completing more sections.
+> The right level of rigor is the level needed to support the decision responsibly.
 
 ---
 

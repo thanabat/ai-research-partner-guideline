@@ -2,6 +2,10 @@
 
 Notable changes to this guideline, newest first.
 
+## 2026-08-14 (v2)
+- Replaced `secondary-research-template.md` with a v2 rewrite: adds Research Depth scaling (Rapid / Standard / Deep) so projects only fill in what their decision actually requires, a new Search Strategy section, finer evidence-type distinctions (Author Interpretation, Platform Claim), and an AI-Assisted Research Workflow section defining the researcher/AI split.
+- Updated `AI-CONTEXT.md` and `examples/example-secondary-research.md` to match the new structure and Research Depth concept.
+
 ## 2026-08-14 (latest)
 - `AI-CONTEXT.md` now instructs the AI to produce and maintain a single, named project file for the user (asking for the project name first) instead of the user manually copying/filling in the template themselves.
 
