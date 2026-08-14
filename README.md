@@ -26,3 +26,13 @@ No setup, no cloning, no code. Copy some text, paste it into your favorite AI ch
 - [`templates/secondary-research-template.md`](templates/secondary-research-template.md) — for research where you talk to the internet instead: literature reviews, competitive research, market research, case studies. Traceability model: **Source → Evidence → Pattern → Insight → Recommendation → Validation Gap → Decision**.
 - [`AI-CONTEXT.md`](AI-CONTEXT.md) — the ground rules that keep your AI honest: evidence stays evidence, opinions stay opinions, and nothing gets invented.
 - [`AI-ROLE-PROMPT.md`](AI-ROLE-PROMPT.md) — a sharper "senior research partner" persona for when it's time to turn evidence into recommendations stakeholders will actually act on.
+
+## Quick tip for advanced users
+
+Using an AI coding tool (Claude Code, Cursor, etc.) instead of a plain chat window? Clone this repo locally and it can read the files directly — no copy-pasting needed:
+
+```bash
+git clone https://github.com/thanabat/ai-research-partner-guideline.git
+```
+
+Point your tool at the folder, then just ask it to follow `AI-CONTEXT.md` (and `AI-ROLE-PROMPT.md` once you're synthesizing) using whichever template fits your project.
