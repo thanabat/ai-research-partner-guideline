@@ -2,6 +2,9 @@
 
 Notable changes to this guideline, newest first.
 
+## 2026-08-14 (latest)
+- `AI-CONTEXT.md` now instructs the AI to produce and maintain a single, named project file for the user (asking for the project name first) instead of the user manually copying/filling in the template themselves.
+
 ## 2026-08-14
 - Added a worked example for each template (`examples/example-primary-research.md`, `examples/example-secondary-research.md`) so a blank template doesn't feel like a blank page.
 - Added a first-time-here orientation callout to the README.
