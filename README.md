@@ -12,9 +12,9 @@ No setup, cloning, or coding required. Just copy the text you need and paste it 
 
 ## How to start a new project
 
-1. Pick the template that matches your research (see below), open it, and copy the whole contents.
+1. Pick the template that matches your research (see below), then either copy its contents or download the `.md` file — whichever your AI tool supports.
 2. Open a chat with your AI assistant of choice (ChatGPT, Gemini, Claude, etc.).
-3. Paste in the contents of `AI-CONTEXT.md` first, then paste the template you copied, and tell the AI what you're researching.
+3. Share `AI-CONTEXT.md` first (paste or upload), then the template, and tell the AI what you're researching.
 4. Work through the template section by section with the AI — filling in real notes, sources, and evidence as you go, following the Golden Rules at the bottom of each template.
 
 ## Choosing a template
