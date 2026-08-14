@@ -18,7 +18,7 @@ Not sure what to type after sharing the files? Try this:
 
 > I'm starting a [primary/secondary] research project about [topic/product]. Please read `AI-CONTEXT.md` and follow its ground rules, then help me fill out `primary-research-template.md` (or `secondary-research-template.md`) section by section — starting with 00/01 Project Setup.
 
-Still not sure what "good" looks like? See [`examples/example-primary-research.md`](examples/example-primary-research.md) for a short worked example.
+Still not sure what "good" looks like? See a worked example: [`example-primary-research.md`](examples/example-primary-research.md) or [`example-secondary-research.md`](examples/example-secondary-research.md).
 
 ## Choosing a template
 
