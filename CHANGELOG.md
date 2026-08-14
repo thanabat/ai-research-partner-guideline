@@ -1,0 +1,16 @@
+# Changelog
+
+Notable changes to this guideline, newest first.
+
+## 2026-08-14
+- Added a worked example for each template (`examples/example-primary-research.md`, `examples/example-secondary-research.md`) so a blank template doesn't feel like a blank page.
+- Added a first-time-here orientation callout to the README.
+- Added an example starter prompt and a quick tip for advanced users working from a local clone.
+
+## 2026-08-14 (earlier)
+- Added `AI-ROLE-PROMPT.md` — a stricter "senior research partner" persona for the synthesis/recommendation phase, kept separate from `AI-CONTEXT.md`.
+- Reframed the whole repo as a copy-paste guideline (no cloning/coding required) and dropped the earlier `projects/` scaffold that implied a local-repo workflow.
+- Renamed the repo from `user-research-project-template` to `ai-research-partner-guideline`.
+
+## 2026-08-14 (initial)
+- Initial commit: `primary-research-template.md` and `secondary-research-template.md` (contributed by the project owner), plus `README.md` and `AI-CONTEXT.md`.

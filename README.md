@@ -11,7 +11,7 @@ No setup, no cloning, no code. Copy some text, paste it into your favorite AI ch
 1. Pick the template that fits your research (see below), then copy its contents or download the `.md` file — whatever your AI tool likes.
 2. Open a chat with your AI assistant of choice (ChatGPT, Gemini, Claude, take your pick).
 3. Share [`AI-CONTEXT.md`](AI-CONTEXT.md) first, then the template, then tell it what you're researching.
-4. Work through the template section by section, filling in real notes, sources, and evidence — no filling in the blanks with vibes.
+4. Give the AI your real notes, sources, and evidence — it writes the actual project file for you, section by section. Your job is to review and correct, not to format and fill blanks yourself.
 5. Ready to turn evidence into recommendations? Bring in [`AI-ROLE-PROMPT.md`](AI-ROLE-PROMPT.md) — it's where the AI stops taking notes and starts thinking like a research lead.
 
 ## Example prompt
@@ -46,3 +46,7 @@ git clone https://github.com/thanabat/ai-research-partner-guideline.git
 ```
 
 Point your tool at the folder, then just ask it to follow `AI-CONTEXT.md` (and `AI-ROLE-PROMPT.md` once you're synthesizing) using whichever template fits your project.
+
+## Changelog
+
+See [`CHANGELOG.md`](CHANGELOG.md) for what's changed and when.

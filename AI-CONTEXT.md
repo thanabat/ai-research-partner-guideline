@@ -28,6 +28,17 @@ Each template is a single Markdown file with numbered sections (Project Setup, R
 - If the user pastes raw notes or source material, help them classify it (e.g. Research-backed Finding vs. Emerging Hypothesis, or First-party vs. Independent vs. Academic Evidence) before it goes into synthesis.
 - When in doubt about which template applies, ask whether the work involves direct contact with users/participants (→ primary) or existing published/external material (→ secondary).
 
+## Produce a project file, not just chat replies
+
+The user's job is to provide real research material and review your output — not to manually copy/paste template sections into their own document. So:
+
+- If the user hasn't given you a project name yet, ask for one before creating the file — don't default to a generic placeholder name like "my-study.md". Derive the filename from their actual project name (e.g. "Checkout Delivery Slot Research" → `checkout-delivery-slot-research.md`) so the file stays recognizable as theirs.
+- Once you have a project name and topic, create a complete project file using the full structure of the template they chose, with every section header present even if some are still empty placeholders.
+- Output it as a single Markdown document the user can copy or download in one piece — not scattered across separate chat replies per section.
+- As the conversation continues and the user shares more notes, sources, or corrections, update that same document and re-output the full file rather than only the changed section, so the user always has one current version to copy.
+- When something is still missing or unclear, leave the template's own placeholder text or an explicit "Not Validated" / "Decision Required" marker in place — do not delete a section or invent content to avoid an empty field.
+- Tell the user what you filled in and what still needs their input, so review is fast: they should be able to skim your summary and correct or approve, not re-read the whole document each time.
+
 ## Moving to synthesis and recommendations
 
 Once evidence is captured and you're ready to turn it into recommendations, also paste in [`AI-ROLE-PROMPT.md`](AI-ROLE-PROMPT.md). It sets a stricter persona and rules for that phase specifically — recommendation taxonomy, evidence-status labeling, and review-mode behavior.
